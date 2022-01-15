@@ -1,5 +1,8 @@
-Includes the follow technologies:
+## Summary:
+creates full stack Reddit-style thread manager
 
+
+## Technologies used:
 - React
 - TypeScript
 - GraphQL
@@ -11,3 +14,4 @@ Includes the follow technologies:
 - Next.js
 - TypeGraphQL
 - Chakra
+
